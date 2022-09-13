@@ -1,6 +1,6 @@
 
 
-## Communications based in Melbourne, Australia.
+## Communications & Community based in Melbourne, Australia.
 Working with Non-Profits to expand their connection to community.
 
 [Work](/work/) <br />General writing and opinions.
