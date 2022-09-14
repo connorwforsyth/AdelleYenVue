@@ -4,7 +4,6 @@ module.exports = {
   dest: 'public',
   plugins: [
     '@vuepress/last-updated',
-    ['@vuepress/google-analytics', { ga: '' }],
     ['@vuepress/search', { searchHotkeys: [] }],
   ],
 
