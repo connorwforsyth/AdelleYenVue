@@ -1,7 +1,6 @@
 module.exports = {
   title: 'Adelle Yen',
   description: 'Community focused, Melbourne Based.',
-  dest: 'public',
   plugins: [
     '@vuepress/last-updated',
     ['@vuepress/search', { searchHotkeys: [] }],
